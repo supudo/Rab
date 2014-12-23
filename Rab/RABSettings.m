@@ -58,8 +58,8 @@
         self.appStoreID = @"834206488";
         self.appStoreURL = [NSString stringWithFormat:@"https://itunes.apple.com/us/app/rab/id%@?ls=1&mt=8", self.appStoreID];
         
-        self.fsClientID = @"ZXYDWTOP3OH3MFBTTNTXCJJMTTOKAHG0DF5CVNGI3ORPM4N0";
-        self.fsClientSecret = @"BUQBM5WTQPZ44J51OSVQHV4ES4WP4WFDN1ROFAKEMPP41JPV";
+        self.fsClientID = @"";
+        self.fsClientSecret = @"";
         self.googleMapsURL = @"http://maps.googleapis.com/maps/api/directions/json?";
         
         self.fontName = @"Harabara";//@"Karma Future";
