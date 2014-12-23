@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  Rab
+
+  Created by Sergey Petrov on 1/27/14.
+  Copyright (c) 2014 supudo.net. All rights reserved.
+*/
+
+"Instructions" = "Shake to get some places for you!";
+"Shake" = "Shake!";
+"Locating" = "Locating ...";
+"Fetching" = "Fetching ...";
+"AllowApp" = "Authorize first ...";
+"OneMoreShake" = "One more shake ...";
+"Categories" = "Categories";
+"Me" = "Me!";
+"Calculating" = "Calculating route ...";
+"CheckInComplete" = "Check-in successful!";
+"Cancel" = "Cancel";
+"OK" = "OK";
+"CheckIn" = "Check-In";
+"Facebook" = "Facebook";
+"Twitter" = "Twitter";
+"Both" = "Both";
+
+"FacebookMessage" = "Rab - Where do you want to go next? {URL} #rabapp";
+"TwitterMessage" = "Rab - Where do you want to go next? {URL} #rabapp";
+"FacebookNoAccount" = "No Facebook account setup.\nPlease, configure your Settings.";
+"TwitterNoAccount" = "No Twitter account setup.\nPlease, configure your Settings.";
+
+"TitleFacebook" = "Facebook";
+"TitleTwitter" = "Twitter";
+"TitleEmail" = "Email";
+"Email.Subject" = "Rab-U!";
+"Email.Body" = "Where do you want to go next?\n\n<br /><br />Check-out Rab {URL}\n\n<br /><br />";
+"Email.InAppEmailCantSend" = "There is no email account configured on this device.";
